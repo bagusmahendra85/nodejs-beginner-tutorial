@@ -1,0 +1,15 @@
+{
+    "name": "nodejs_static_webserver",
+    "version": "1.0.0",
+    "description": "nodejs tutorial, how to create a static webserver | EPS6",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "static",
+        "webserver"
+    ],
+    "author": "mengwidev",
+    "license": "ISC"
+}

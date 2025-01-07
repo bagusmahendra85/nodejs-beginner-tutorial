@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_filesystem_module",
+  "version": "1.0.0",
+  "description": "tutorial filesystem module pada node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filesystem"
+  ],
+  "author": "mengwidev",
+  "license": "ISC"
+}
