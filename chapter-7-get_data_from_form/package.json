@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_get_form",
+  "version": "1.0.0",
+  "description": "nodejs tutorial, how to get data from client form | EPS7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "mengwidev",
+  "license": "ISC"
+}
